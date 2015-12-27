@@ -1,6 +1,6 @@
 # getting_and_cleaning_data
-project
-Steps takem to complete the project:
+
+Steps taken to complete the project:
 
  # Downloading and unzipping the dataset
 
